@@ -27,6 +27,7 @@ Coding our model from scratch
 3.4. Gaussian Naive Bayes
 
 Evaluation (f1-score)
+
 4.1. Logistic Regression: 0.87
 
 4.2. Multi Layer Perceptrons: 0.96
